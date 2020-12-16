@@ -1,0 +1,57 @@
+html, body{
+    padding: 0%;
+    margin: 0%;
+    height: 100%;
+}
+
+header{
+    height: 20%;
+}
+
+.logo{
+    background-color: rgb(189, 46, 75);
+    margin-left: 0%;
+    display: inline-block;
+    height: 80%;
+    width: 100%;
+
+}
+
+.logo h1{
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    margin-left: 8%;
+    position: absolute;
+}
+
+.main-card{
+    width: 80%;
+    margin: auto;
+    background-color: azure;
+}
+
+.ex-card{
+    height: 500px;
+}
+
+.ex-card h1{
+    background-color: rgb(189, 46, 75) ;
+    color: azure;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+footer{
+    background-color:  rgb(189, 46, 75);
+    height: 5%;
+    width: 100%;
+    margin-top: 2.5%;
+    line-height: 32px;
+}
+
+footer p{
+    color: azure;
+    text-align: center;
+}
