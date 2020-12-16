@@ -1,0 +1,40 @@
+html, body{
+    padding: 0%;
+    margin: 0%;
+    height: 100%;
+}
+
+header{
+    height: 15%;
+    background-color: rgb(189, 46, 75);
+    min-height: 90px;
+
+}
+
+.logo{
+    max-height: 100%;
+    padding-top: 20px;
+}
+
+.logo h1{
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    font-size: 250%;
+   /* margin-left: 15%;*/
+}
+
+/*.menu{
+    display: inline;
+    margin-top: -6%;
+    width: 10%;
+}*/
+
+.logo img{
+    height: 45px;
+    max-height: 100%;
+    display: inline-block;
+    float: left;
+    position: relative;
+    padding: 0 1%;
+}
