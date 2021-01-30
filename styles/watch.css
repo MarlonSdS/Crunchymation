@@ -2,11 +2,16 @@
     background-color: azure;
     width: 60%;
     height: 80%;
+    display: inline-block;
 }
 
 .video-card{
-    background-color: aqua;
     height: 80%;
+}
+
+video{
+    height: 100%;
+    width: 100%;
 }
 
 .titulo{
@@ -28,6 +33,28 @@
     border-color: white;
     height: 35px;
     width: 15%;
+}
+
+.related{
+    width: 30%;
+    float: right;
+    max-height: 100%;
+    margin-top: 5%;
+
+}
+
+.video-related{
+    height: 25%;
+}
+
+.video-related img{
+    height: 70px;
+}
+
+.video-related a{
+    text-decoration: none;
+    color: black;
+    line-height: 35px;
 }
 
 footer{
